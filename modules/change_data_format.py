@@ -40,6 +40,5 @@ def change_data_format(posted_data):
         result_new = result_new.replace("ellow", "\nyellow")
     if "red" in result_new:
         result_new = result_new.replace("red", "\nred")
-    print(result_new)
     return result_new
 
