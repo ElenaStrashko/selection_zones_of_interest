@@ -27,6 +27,8 @@ Open [http://0.0.0.0:5000/](http://0.0.0.0:5000/) to view it in the browser.
 
 ### A few words about the application
 
+![](app.gif)
+
 This application published photos on http://0.0.0.0:5000/ from camera.<br />
 You can create markup on the image and save contours. This app uses react and flask.<br />
 You **MUST** end your work with this app with click to "clear" or "save points".<br />
